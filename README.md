@@ -1,9 +1,12 @@
 <html>
+<style>
+body{
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQXMlG0JVlZkb2eXewXbkyWHkitUBKPeP_X4Fhn_n4sp9pyU9")}
+</style>
 <body>
 <div align="center">
-  <b><u><h1 style="color:blue;">RIGHT TO INFORMATION</h1></u></b>
-</div>
-<i><h2>A Citizen Gateway</h2></i>
+  <b><u><h1>RIGHT TO INFORMATION</h1></u></b>
+  </div>
 <table>
 <tr>
 <th><b>TAG</b></th>
@@ -35,14 +38,35 @@ But here ,
 <td>Google Search Results Preview</td>
 <td>-Info- </td>
 <td>Right to Information.</td>
-<td>http://rti.gov.in/</td>
+<td><a href="http://rti.gov.in/"><b>SEARCH</b></a>
+        </td>
 </tr>
 <tr>
 <td> h1 Headings Status</td>
 <td> FOUND </td>
-<td>Your page contains H1 headings.Their contents are listed below:
+<td>Your page contains H1 headings.Their contents are listed below:<br>
 ⟩⟩ About Right to Information Act 2005..</td>
-<td></td>
+<td>The h1 tag should contain your targeted keywords, ones that closely relate to the page title and are relevant to our content. </td>
+</tr>
+<tr>
+<td> h2 Headings Status</td>
+<td> FOUND </td>
+<td>Your page contains H2 headings. Their contents are listed below:<br>
+⟩⟩ Kids Corner
+⟩⟩ Thanks to RTI
+⟩⟩ RTI Video/Audio
+⟩⟩ Publications
+⟩⟩ Online Services
+⟩⟩ Whats New
+⟩⟩ Information on CIC
+⟩⟩ SIC
+⟩⟩ Appellate Authorities
+⟩⟩ Public Info Officers
+⟩⟩ RTI Links and Websites
+⟩⟩ Delivery Monitoring Unit
+⟩⟩ RTI in India</td>
+<td>The h2 tag is a subheading and should contain similar keywords to h1 tag. </td>
+</tr>
 <tr>
 <td>Robots.txt</td>
 <td>Not Found</td>
@@ -52,35 +76,85 @@ But here ,
 <tr>
 <td> Site Map </td>
 <td> 1 sitemap found </td>
-<td>* http://rti.gov.in/sitemap.xml</td>
-<td> Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
+<td> <a href="http://rti.gov.in/sitemap.xml"> <b> Sitemap </b></a> </td>
+<td>A sitemap is a list of pages of a web site accessible to crawlers or users.It is good to have sitemap
+ Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
+</tr>
+<tr>
+<td>Broken Links Test</td>
+<td>OK</td>
+<td>From 57 distinct anchor links analyzed, none of them appears to be broken. </td>
+<td>It is good to have no broken links.</td>
+</tr>
+<tr>
+<td>Image Alt Test</td>
+<td>NOT FOUND</td>
+<td>This webpage has 21 'img' tags and 21 of them missing the required 'alt' attribute </td>
+<td>'alt' attribute must be used with all 'img' tags.</td>
 </tr>
 <tr>
 <td>Inline Css Test</td>
-<td>12(Inlines)</td>
+<td>Not Good</td>
+<td>Your webpage is using 12 inline CSS styles</td>
+<td>it should use good Css styles</td> 
+</tr>
+<tr>
+<td>Underscores in Links Test	</td>
+<td>Very Good</td>
+<td>We have not found underscores in this in-page URLs</td>
+<td>Hyphens should be used instead of underscores.So this site does not use any underscores.</td>
 </tr>
 <tr>
 <td> Favicon Test </td>
-<td> Found </td>
+<td>Not Found </td>
+<td>This website appears not to have a favicon.</td>
+<td>Webpage can be easily recognized through Favicon.So This website should use favicone.</td>
 </tr>
 <tr>
-<td>HTML Page size</td>
-<td>22.39kb.</td>
+<td>SEO Friendly URL Test	</td>
+<td>Not Good</td>
+<td> 6 internal urls found that are not seo friendly</td>
+<td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-). <br>
+<b>Underscores, upercase Alphabets and special chars (e-g: & ? %) are not seo friendly</b>.</td>
 </tr>
-<tr>
-<td>HTML Compression </td>
-<td>gzip compression</td>
-</tr>
-
 <tr>
 <td>Page Rank</td>
-<td>0</td>
+<td>Not Good</td>
+<td>	Page rank is 0/10.</td>
+<td>More backlinks need to be used to increase PR.</td>
 </tr>
 <tr>
-<td>Age</td>
-<td>13-october-2005 09:24:46 UTC</td>
-</tr>
-
+  <td>Page size</td><td >Very light</td><td >Page size is 22.25KB</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB</td>
+        </tr>
 </table>
-</body>
-</html>
+<p>
+<table>
+<tr>
+<td><b>ADMIN NAME:</b> <i>Director RTI</i></td>
+</tr>
+</table>
+<p>
+<table>
+<tr>
+     <th> <u><b>Domain Age</b></u></th>
+    </tr>
+    <tr>
+      <td><b>Created on</b></td><td>13-Oct-2005 09:24:46 UTC</td>
+    </tr>
+    <tr>
+      <td><b>Age</b></td><td>12 Years,10 days</td> </tr>
+    <tr>
+      <td><b>Last Updated</b></td><td>04-Oct-2016 09:54:10 UTC</td>
+    </tr>
+</table>
+<p>
+<table Bckground color="lightgreen">
+    <tr>
+      <th><u><b>Load Time</b></u></th><th><b>SEO score</b></th><th><b>Speed score</b></th>
+    </tr>
+    <tr><td>7.4sec</td><td>50/100</td><td>63/100</td>
+    </tr>
+</table>
+<a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></a>
+<body/>
+<html/>
